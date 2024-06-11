@@ -1,7 +1,7 @@
 # llm
 Class to handler T2T LLMs with train
 
-#USAGE:
+# USAGE:
 
 from classes.TextToTextModels import LLMQ4
 
